@@ -28,7 +28,7 @@ header {
   z-index: 999;
 }
 
- h1 {
+h1 {
   margin: 0 0 1.3rem;
   font-size: 1.5rem;
   font-family: 'Wire One', sans-serif;
@@ -36,9 +36,9 @@ header {
   display: inline-block;
 }
 
-  p {
-    margin: 0 0 1.3rem;
-  }
+p {
+  margin: 0 0 1.3rem;
+}
 
 .nav {
   margin: 0;
@@ -278,12 +278,12 @@ footer {
   html {
    font-size: 110%;
    line-height: 1.4;
- }
+  }
 
  h1,
  p {
    margin: 0 0 1.4rem;
- }
+  }
 
   .nav-check,
   .nav-label {
@@ -294,7 +294,7 @@ footer {
     padding-left: 1rem;
     padding-right: 1rem;
     text-align: left;
- }
+  }
 
   ul {
     display: inline;
