@@ -276,13 +276,13 @@ footer {
 @media only screen and (min-width: 38em) {
 
   html {
-   font-size: 110%;
-   line-height: 1.4;
+    font-size: 110%;
+    line-height: 1.4;
   }
 
  h1,
  p {
-   margin: 0 0 1.4rem;
+    margin: 0 0 1.4rem;
   }
 
   .nav-check,
@@ -338,20 +338,19 @@ footer {
   article {
     margin: auto;
   }
-
 }
 
 @media only screen and (min-width: 60em) {
 
   html {
-   font-size: 120%;
-   line-height: 1.5;
- }
+    font-size: 120%;
+    line-height: 1.5;
+  }
 
  h1,
  p {
-   margin: 0 0 1.5rem;
- }
+    margin: 0 0 1.5rem;
+  }
 
   html {
     font-size: 120%;
@@ -382,24 +381,21 @@ footer {
   .col {
     max-width: 400px;
   }
-
 }
 
 @media only screen and (min-width: 75em) {
   .col {
     max-width: 320px;
   }
-
 }
 
 @media only screen and (min-width: 90em) {
 
   html {
-   font-size: 130%;
+    font-size: 130%;
   }
 
   .col {
     max-width: 320px;
   }
-
 }
