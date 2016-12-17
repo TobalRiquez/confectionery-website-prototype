@@ -109,7 +109,7 @@ header {
 }
 
 .nav-check:checked ~ .nav-labelbg {
-  display:block;
+  display: block;
 }
 
 .banner figure {
