@@ -98,7 +98,7 @@ header {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(0,0,0,.2);
+  background-color: rgba(0, 0, 0, .2);
   z-index: 1;
   display: none;
 }
@@ -306,9 +306,9 @@ footer {
   }
 
   .nav li {
-    display:inline-block;
+    display: inline-block;
     float: none;
-    width:auto;
+    width: auto;
   }
 
   .nav {
