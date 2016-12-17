@@ -303,16 +303,13 @@ footer {
   .nav {
     display: inline;
     text-align: center;
+    background-color: #e2e2e2;
   }
 
   .nav li {
     display: inline-block;
     float: none;
     width: auto;
-  }
-
-  .nav {
-    background-color: #e2e2e2;
   }
 
   .banner h2,
