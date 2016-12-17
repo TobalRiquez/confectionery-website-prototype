@@ -280,8 +280,8 @@ footer {
     line-height: 1.4;
   }
 
- h1,
- p {
+  h1,
+  p {
     margin: 0 0 1.4rem;
   }
 
@@ -320,7 +320,7 @@ footer {
     margin: 0 0 1.4rem;
   }
 
- .banner figure {
+  .banner figure {
     position: relative;
   }
 
